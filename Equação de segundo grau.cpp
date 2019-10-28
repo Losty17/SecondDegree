@@ -2,7 +2,7 @@
 #include <math.h>
 
 int main(){
-	printf("@KKKBini©\n\n");
+	printf("@KKKBiniÂ©\n\n");
 	while(1 == 1){
 		float a, b, c;
 		printf("Digite o valor de a: ");
@@ -19,7 +19,7 @@ int main(){
 			//delta
 		float delta = pow(b,2)-4*a*c;
 		if(delta == 0){
-			printf("\nDelta = %.2f\tRaiz do delta = 0\t", delta);
+			printf("\nDelta = 0\tRaiz do delta = 0\t");
 			float x = (-b + 0)/(2*a);
 			printf("x = %.2f\n", x);
 		}else if(delta < 0){
@@ -32,7 +32,7 @@ int main(){
 			float x2 = (-b-raizdelta)/(2*a);
 			printf("\nx1 = %.2f\tx2 = %.2f\n", x1, x2);
 		}
-		//direção da parabola
+		//direÃ§Ã£o da parabola
 		if(a > 0){
 			printf("\nAbertura da parabola virada para cima\n");
 		}else{	
