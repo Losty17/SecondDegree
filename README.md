@@ -1,3 +1,5 @@
 # Olá
 
-tudo blz? baixa ae o programa .exe e se der aviso de virus n liga pq no meu pc tb da :(
+Arquivo .exe para windows (não tem virus o windows q bloqueia por nd)
+Arquivo .apk para android (ative fontes desconhecidas no painel segurança das configurações)
+iPhone????????????? wtf
