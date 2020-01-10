@@ -13,14 +13,16 @@ int main(){
 		printf("Digite o valor de c: ");
 		scanf("%f", &c);
 		printf("\n%.2fx^2 + %.2fx + %.2f\n", a, b, c);
-		if(a == 0){
+		if(a == 0)
+		{
 			printf("O valor de A e igual a 0, impossivel calcular.\n");
 			printf("\no--------------------o\n\n");
 		} else
 		{
 			//delta
 			float delta = pow(b,2)-4*a*c;
-			if(delta == 0){
+			if(delta == 0)
+			{
 				printf("\nDelta = 0\tRaiz do delta = 0\t");
 				float x = (-b + 0)/(2*a);
 				printf("x = %.2f\n", x);
